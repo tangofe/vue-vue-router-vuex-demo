@@ -2,6 +2,7 @@
    git clone 项目地址  
    npm install   
    npm start  
+   打开地址localhost:8080
      
 2. 项目过程  
    本项目意在快速入门vue及其全家桶，不在UI和内容上过多讲究，里面实践了框加得内容有  
